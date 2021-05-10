@@ -14,6 +14,7 @@ import language_tool_python
 from telegram.ext import Updater, Handler, CommandHandler, MessageHandler, ConversationHandler, Filters
 
 from config import token_tg
+token = token_tg
 
 # set method dictionaries to make links
 
