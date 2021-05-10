@@ -13,8 +13,7 @@ import random
 import language_tool_python
 from telegram.ext import Updater, Handler, CommandHandler, MessageHandler, ConversationHandler, Filters
 
-token = 'acadb24bacadb24bacadb24bdfacd944d8aacadacadb24bccc70b3e0abb60674a6e4c48'
-filename = 'raw_table.csv'
+from config import token_tg
 
 # set method dictionaries to make links
 
