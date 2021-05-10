@@ -527,20 +527,6 @@ if __name__ == '__main__':
     main()
 
 
-# ### more to do
-# 
-# - friendly interface
-# - DONE sort the responses
-# - somehow store already processed vk groups
-# - fix gender 
-
-# In[28]:
-
-
-dic = {'d':1, 'f':0}
-dict(sorted(dic.items(), key=lambda x:x[1], reverse=True))
-
-
 # In[ ]:
 
 
